@@ -110,7 +110,8 @@ body, html {
 
 
 ## OUTPUT:
-https://github.com/RAMYA-100/cover/blob/main/Screenshot%202025-10-08%20144005.png
+![Uploading Screenshot 2025-11-19 234040.png…]()
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
