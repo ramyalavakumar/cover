@@ -110,7 +110,8 @@ body, html {
 
 
 ## OUTPUT:
-![Uploading Screenshot 2025-11-19 234040.png…]()
+<img width="1460" height="753" alt="Screenshot 2025-11-19 234040" src="https://github.com/user-attachments/assets/a068f946-af0e-488f-8b9a-456e9cc34483" />
+
 
 
 ## RESULT:
